@@ -1,2 +1,2 @@
 # autodidacta
-I want to learn Economics by myself. I'm focusing on competition and regulation with data analysis, comparing Mexico and the United Kingdom. This repo has my notebooks and projects.
+This repository documents my self-taught journey in economics, statistics and Python. I am focusing on competition and regulation, using data analysis to compare Mexico and the United Kingdom. It will contain my notebooks, projects and notes as I progress.
